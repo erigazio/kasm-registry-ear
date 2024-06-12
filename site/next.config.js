@@ -2,11 +2,11 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
+    name: 'EAR Registry',
+    description: 'Mein test',
     icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
-    contactUrl: 'https://kasmweb.com/support',
+    listUrl: 'https://erigazio.github.io/kasm-registry-ear/',
+    contactUrl: 'https://erigazio.github.io/kasm-registry-ear/',
   },
   reactStrictMode: true,
   swcMinify: true,
